@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">👋 Hello, there! I am Ritika Bisht, a passionate technologist with a wide skill set and a strong interest in cybersecurity and automation.<br><br>💻 I am proficient in Python, C, and C++, as well as Robotic Process Automation (RPA) with a focus on UiPath Studio.<br><br>🔍 My experience includes computer forensics and ethical hacking, where I like identifying flaws and safeguarding systems.<br><br>🖥️ I have a great understanding of both Windows and Linux environments and am skilled at using programming tools like Visual Studio and Android Studio.<br><br>📊 In addition, I'm proficient in R data analysis and Git version control.<br><br>🌱 I'm keen to learn new technologies and apply my abilities to tackle challenging challenges and significant initiatives.<br><br>📫 Let's connect and cooperate on amazing projects!</p>
+<p align="left">👋 Hello, there! I am Ritika Bisht, a passionate technologist with a wide skill set and a strong interest in cybersecurity and automation.<br><br>💻 I am proficient in Python, C, and C++, as well as Robotic Process Automation (RPA) with a focus on UiPath Studio.<br><br>🔍 My experience includes computer forensics and ethical hacking, where I like identifying flaws and safeguarding systems.<br><br>🖥️ I have a great understanding of both Windows and Linux environments and am skilled at using programming tools like Visual Studio and Android Studio.<br><br>🌱 I'm keen to learn new technologies and apply my abilities to tackle challenging challenges and significant initiatives.<br><br>📫 Let's connect and cooperate on amazing projects!</p>
 
 ###
 
