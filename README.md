@@ -1,12 +1,11 @@
 <br clear="both">
 
-<p align="left">Hello World!!</p>
-
 ###
+I’m Ritika Bisht, a passionate coder who embarked on this tech journey back in class 10, and the thrill hasn’t faded since. From C++ to Python, web design to databases, I’ve been exploring diverse languages and technologies, always hungry to learn more. Lately, I’m diving into the world of Ethical Hacking, discovering how to keep digital spaces secure.  
+Tech is my playground, and I’m always looking for the next challenge to tackle, the next skill to master, and the next project to bring to life. Let’s code the future together!  
 
-<br clear="both">
-
-<p align="left">👋 Hello, there! I am Ritika Bisht, a passionate technologist with a wide skill set and a strong interest in cybersecurity and automation.<br><br>💻 I am proficient in Python, C, and C++, as well as Robotic Process Automation (RPA) with a focus on UiPath Studio.<br><br>🔍 My experience includes computer forensics and ethical hacking, where I like identifying flaws and safeguarding systems.<br><br>🖥️ I have a great understanding of both Windows and Linux environments and am skilled at using programming tools like Visual Studio and Android Studio.<br><br>🌱 I'm keen to learn new technologies and apply my abilities to tackle challenging challenges and significant initiatives.<br><br>📫 Let's connect and cooperate on amazing projects!</p>
+<hr>
+  📫 Let's connect and cooperate on amazing projects!</p>
 
 ###
 
@@ -17,10 +16,8 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<p align="left">Familiarity with Programming Languages</p>
+<hr>
+<p align="left">Programming Languages</p>
 
 ###
 
@@ -39,10 +36,8 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<p align="left">Familiarity with Operating System</p>
+<hr>
+<p align="left">Operating System</p>
 
 ###
 
@@ -54,8 +49,7 @@
 
 ###
 
-<br clear="both">
-
+<hr>
 <p align="left">Programming Tools</p>
 
 ###
@@ -64,6 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
 
-###
+ </div>
+
+###  
+<hr>
+<img alt="My Stats" align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=ritika18b&show_icons=true&theme=highcontrast&rank_icon=github" />
+
+<img alt="Top Languages"  align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ritika18b&layout=compact"/>  
+   
+   
+
