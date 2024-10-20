@@ -5,6 +5,7 @@ I’m Ritika Bisht, a passionate coder who embarked on this tech journey back in
 Tech is my playground, and I’m always looking for the next challenge to tackle, the next skill to master, and the next project to bring to life. Let’s code the future together!  
 
 <hr>
+<img align="right" width="400" alt= "gif" src="https://www.multirecruit.com/wp-content/uploads/2022/05/What-does-a-Full-Stack-Developer-do.png" />
 📫 Let's connect and cooperate on amazing projects!</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/ritika-bisht-b82934224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -13,8 +14,6 @@ Tech is my playground, and I’m always looking for the next challenge to tackle
   <a href="https://www.hackerrank.com/dashboard" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="40" width="52" /></a>
 </div>
-
-<img align="right" width="400" alt= "gif" src="https://www.multirecruit.com/wp-content/uploads/2022/05/What-does-a-Full-Stack-Developer-do.png" />
 
 <p align="left">Programming Languages</p>
 <div align="left">
