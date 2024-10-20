@@ -14,7 +14,7 @@ Tech is my playground, and I’m always looking for the next challenge to tackle
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="40" width="52" /></a>
 </div>
 
-<img align="right" width="400" alt= "gif" src="https://th.bing.com/th/id/OIP.A-YmUa3Xx5CxPsN8BXi8WAHaE8?rs=1&pid=ImgDetMain" />
+<img align="right" width="400" alt= "gif" src="https://www.multirecruit.com/wp-content/uploads/2022/05/What-does-a-Full-Stack-Developer-do.png" />
 
 <p align="left">Programming Languages</p>
 <div align="left">
